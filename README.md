@@ -1,7 +1,5 @@
 # python
-School projects created using Python
-
-Outcomes:
+Course Outcomes:
 - Write computer code to import, manipulate, and analyze datasets
 - Implement data validation and error handling procedures
 - Construct navigable graphical user interfaces (GUIs) for effective user interaction with applications
